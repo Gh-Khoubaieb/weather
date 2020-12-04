@@ -1,4 +1,3 @@
 
-# Real-Time Weather
-Realtime weather app build with javascript.
-
+# Weather App
+Simple realtime weather app build with javascript.
